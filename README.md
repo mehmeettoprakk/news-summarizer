@@ -10,7 +10,7 @@ Features
 🔍 Custom News Prediction: Users can input custom summaries for classification.<br>
 🎨 Interactive GUI: Provides an intuitive interface with CustomTkinter for easy navigation. <br>
 <br>
-How It Works
+How It Works<br>
 1.News articles are fetched from RSS feeds. <br>
 2.The text is cleaned and summarized using LSA. <br>
 3.A TF-IDF vectorizer transforms the text for classification. <br>
