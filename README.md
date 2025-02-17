@@ -2,7 +2,7 @@ News Summarizer and Classifier
 Overview
 This Python-based application fetches real-time news from multiple RSS feeds, summarizes articles using Latent Semantic Analysis (LSA), and classifies them into predefined categories using machine learning models. The interactive CustomTkinter GUI allows users to view and analyze news efficiently.
 
-Features
+Features<br>
 📰 Real-time News Retrieval: Fetches news from various categories (Economy, Sports, Technology, etc.).<br>
 ✂ LSA-Based Summarization: Extracts key points from news articles.<br>
 🤖 Machine Learning Classification: Trains and compares Naïve Bayes, Logistic Regression, Random Forest, and SVM models.<br>
